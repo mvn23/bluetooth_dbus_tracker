@@ -1,0 +1,11 @@
+{
+  "domain": "bluetooth_dbus_tracker",
+  "name": "Bluetooth DBus tracker",
+  "documentation": "https://www.home-assistant.io/components/bluetooth_dbus_tracker",
+  "requirements": [
+    "pydbus==0.6.0",
+    "PyGObject==3.32.2"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
